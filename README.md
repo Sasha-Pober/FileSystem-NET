@@ -24,6 +24,18 @@
 
 В результаті отримуємо таке відображення:
 
+![image](https://github.com/Sasha-Pober/FileSystem-NET/assets/71099051/7cd2283d-205a-4b72-b152-6364b49bb2ad)
+
 ![image](https://github.com/Sasha-Pober/FileSystem-NET/assets/71099051/cb3c4996-ff8f-41c6-aafb-8a272a1cffb5)
+
+![image](https://github.com/Sasha-Pober/FileSystem-NET/assets/71099051/2a0a9ee2-8714-4186-8181-2866f4429a29)
+
+![image](https://github.com/Sasha-Pober/FileSystem-NET/assets/71099051/d8b3babb-1823-49d5-b54a-5d139254f492)
+
+![image](https://github.com/Sasha-Pober/FileSystem-NET/assets/71099051/ae5388f9-2398-409b-8f02-54f31a622f82)
+
+
+
+
 
 
