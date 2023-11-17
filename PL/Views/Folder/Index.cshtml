@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Folder>
+
+<h2>"Folder" - @ViewBag.Name</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <a asp-controller="Folder" asp-action="Index" asp-route-name="@item.Name">@item.Name</a>
+        </li>
+    }
+</ul>
